@@ -46,6 +46,7 @@ class App extends Component {
 
     return (
       <>
+        <h1 className="app-title">Monsters Rolodex</h1>
         <SearchField onInput={handleInput} />
         <CardList monsters={filteredMonsters} />
       </>
