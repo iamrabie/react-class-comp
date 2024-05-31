@@ -1,10 +1,10 @@
 import { Component } from "react";
-import './searchField.styles.css';
+import "./searchField.styles.css";
 
 class SearchField extends Component {
-//   constructor() {
-//     super();
-//   }
+  //   constructor() {
+  //     super();
+  //   }
 
   render() {
     console.log("search field RENDER METHDO");
